@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mavenPlugin" />
         <module name="app02" />
         <module name="app01" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="app01" target="1.7" />
       <module name="app02" target="1.7" />
+      <module name="mavenPlugin" target="1.7" />
       <module name="my-app" target="1.7" />
     </bytecodeTargetLevel>
   </component>

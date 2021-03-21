@@ -8,9 +8,9 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <groupId>app02</groupId>
+<!--  <groupId>app02</groupId>-->
   <artifactId>app02</artifactId>
-  <version>1.0-SNAPSHOT</version>
+<!--  <version>1.0-SNAPSHOT</version>-->
   <packaging>war</packaging>
   <name>app02</name>
   <url>http://maven.apache.org</url>
